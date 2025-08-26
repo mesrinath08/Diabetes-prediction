@@ -18,7 +18,7 @@ The PIMA Diabetes Dataset is used for this project. The dataset contains 768 rec
 
 ## Model Training and Evaluation
 
-The SVM classifier with a linear kernel is used for training. The model's accuracy is evaluated on both training and test data. The accuracy achieved on the training data is approximately 78.7%, while on the test data, it's approximately 77.3%.
+The SVM classifier with a linear kernel is used for training. The model's accuracy is evaluated on both training and test data. The accuracy achieved on the training data is approximately 86.3%, while on the test data, it's approximately 85%
 
 ## Making Predictions
 
